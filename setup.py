@@ -13,6 +13,6 @@ setup(
     version='0.1dev',
     packages=['respiratory_sounds'],
     license='MIT',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     install_requires=reqs,
 )
